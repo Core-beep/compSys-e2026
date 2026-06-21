@@ -52,7 +52,7 @@ The general outline of CompSys will be the following:
 Be aware that CompSys is a semester course, which means that we will be teaching (including having normal exercise and assignments) throughout the exam period (weeks 44 and 45) of Block 1.
 
 ### Exam
-The exam is a written 4-hour open-book exam and will be held on Wednesday Jan 20th. Course syllabus is all reading material, including the assignments.
+The exam is a written 4-hour open-book bring-your-own-device exam and will be held on Wednesday of the Block 2 exam week. Course syllabus is all reading material, including the assignments. LLM/GAI is not allowed.
 We will later publish example sets based on the previous exam iteration and further details on the exam procedure. It will be possible to get limited feedback on the exam performance afterwards.
 
 ### Exercises and Cafées
@@ -85,10 +85,10 @@ TAs:
 Teaching in this course will be on a weekly basis. E.g. each week we will have a unified topic that will be introduced and investigated. These subjects will be taught through a combination of out of class videos to watch, exercises, review sessions and lectures.
 
 
+<!-- David update this -->
 ### Recordings
 Much of the theoretical material will be first introduced via video recordings. These will be released the previous week so that you may view them in your own time before the start of the week. You will not be expected to know all presented material inside and out before attending any exercises or lectures, but will be expected to have at least viewed the material, investigated the written material, and identified any questions you still have. Small review quizzes will also be provided along with the recordings for you to test that you've obtained the expected learning from the videos. Note that these quizzes are just for revision and feedback and so do not affect your assignments or final grades in any way.
 
-<!-- David update this -->
 ### Review Sessions
 Every Monday a session will be held to review the weeks video material. This is an opportunity to ask questions directly to the teachers about the weeks material. This will primarily be a repeat of the material presented in the videos so if you are already familiar and confident with the video and written material and exercise topics attendance at the review sessions should be viewed as optional.
 
