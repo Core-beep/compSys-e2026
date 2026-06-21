@@ -207,8 +207,8 @@ There are 6 assignment in total during the course with deadline roughly every tw
 | A0: Dynamic memory and caching                | Sunday Week 39 @ 16:00    | None  |       4 points |
 | A1: Concurrency                               | Sunday Week 43 @ 16:00    | OS    |       4 points |
 | A2: Client network distribution and security  | Sunday Week 47 @ 16:00    | CN    |       4 points |
-| A3: Architecture.                             | Sunday Week 50 @ 16:00    | Arc   |       4 points |
-| A4: Theoretical catch up                      | Wednesday Week 01 @ 20:00 | None  |       2 points |
+| A3: Architecture.                             | Sunday Week 51 @ 16:00    | Arc   |       4 points |
+| A4: Theoretical catch up                      | Sunday Week 01 @ 16:00    | None  |       2 points |
 
 Assignments are made to be solved in groups of preferably three students, but groups of two active students will also do. We strongly encourage not to work alone. Groups cannot be larger than three students. Each group must make their own solutions and must share implementations and report with other. You are allowed to discuss material and ideas. All assignment hand-ins should include the standard KU Generative AI declaration [KU Generative AI declaration](https://kunet.ku.dk/work-areas/teaching/digital-learning/chatgpt-and-ai/new-rules-and-principles-from-september-2025/template-for-declaration/Pages/default.aspx).
 
