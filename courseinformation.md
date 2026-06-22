@@ -82,43 +82,15 @@ TAs:
 
 
 ## Teaching
-Teaching in this course will be on a weekly basis. E.g. each week we will have a unified topic that will be introduced and investigated. These subjects will be taught through a combination of out of class videos to watch, exercises, review sessions and lectures.
+Teaching in this course will be on a weekly basis. E.g. each week we will have a unified topic that will be introduced and investigated. These subjects will be taught through a combination of lectures, exercises, written material, and out of class videos. Material will be presented first through reading/watching course material and completing exercises, then by lectures, and finally through assignments. 
 
+## Reading/Watching Course Material
+Much of the theoretical material will be first introduced either via reading in the course textbooks, or via video recordings of previous years lectures. These will be released the previous week so that you may view them in your own time before the start of the week. You will not be expected to know all presented material inside and out before attending any exercises or lectures, but will be expected to have at least started viewing the material so that you are able to start work on the exercises during the exercise class.
 
-<!-- David update this -->
-### Recordings
-Much of the theoretical material will be first introduced via video recordings. These will be released the previous week so that you may view them in your own time before the start of the week. You will not be expected to know all presented material inside and out before attending any exercises or lectures, but will be expected to have at least viewed the material, investigated the written material, and identified any questions you still have. Small review quizzes will also be provided along with the recordings for you to test that you've obtained the expected learning from the videos. Note that these quizzes are just for revision and feedback and so do not affect your assignments or final grades in any way.
-
-### Review Sessions
-Every Monday a session will be held to review the weeks video material. This is an opportunity to ask questions directly to the teachers about the weeks material. This will primarily be a repeat of the material presented in the videos so if you are already familiar and confident with the video and written material and exercise topics attendance at the review sessions should be viewed as optional.
-
-#### Block 1 (including Week 45)
-  * Monday at 15:15-17:00 in DIKU, Store UP1
-
-#### Block 2, Week 47-48
-  * Monday at 15:15-17:00 in DIKU, Lille UP1
-
-#### Block 2, 49+
-  * Monday at 15:15-17:00 in DIKU, Store UP1
-
-### Advanced Lectures
-Every Wednesday a more traditional lecture will be held to introduce further topics not covered in the videos. This will be material that is more complex and would benefit from an in-person explanation. Recordings of such material should not be assumed to be available and so attendance is encouraged by all at this lecture.
-
-#### Block 1
- * Wednesdays at 15:15-17:00 in DIKU, Store UP1
-
-#### Week 45, exam week
- * Friday at 13:15-15:00 in HCØ, Aud 1
-
-#### Block 2, Week 47-48
- * Wednesdays at 15:15-17:00 in Lundbeck Auditorium
-
-#### Block 2, 49+
- * Wednesdays at 15:15-17:00 in DIKU, Store UP1
-
+Additional review quizzes will also be provided along with the recordings for you to test that you've obtained the expected learning from the videos. Note that these quizzes are just for revision and feedback and so do not affect your assignments or final grades in any way.
 
 ## Exercise Classes
-Exercise classes will introduce many of the smaller concepts and techniques we will be exploring in this course. They are mostly smaller programming and theory tasks that prepare you for the tasks in the assignments and the exam. Note that you will be expected to have viewed the relevant video recordings before attending the exercise classes. 
+Exercise classes will introduce many of the practical concepts and techniques we will be exploring in this course. They are mostly smaller programming and theory tasks that prepare you for the tasks in the assignments and the exam. Note that you will be expected to have some overview of the relevant course material before attending the exercise classes. The exercise classes are also a prime way for you to ask questions to TAs and get guidance through any of the exercises, assignments or general course topics.
 
  * Mondays 13:15-15:00
  * Wednesdays 13:15-15:00
@@ -159,6 +131,25 @@ Please disregard the location stated at skema.ku.dk or in the myUCPH app. Please
   * Class 3:
     * Monday: Biocenter 2-1-17
     * Wednesday: Biocenter 2-1-17
+
+### Lectures
+Every Monday and Wednesday lectures will be held. These will go through the course material though are also an opportunity to ask questions directly to the teachers about the weeks material. 
+
+#### Block 1
+  * Monday at 15:15-17:00 in DIKU, Store UP1
+  * Wednesdays at 15:15-17:00 in DIKU, Store UP1
+
+#### Block 1, Week 45
+  * Monday at 15:15-17:00 in DIKU, Store UP1
+  * Friday at 13:15-15:00 in HCØ, Aud 1
+
+#### Block 2, Week 47-48
+  * Monday at 15:15-17:00 in DIKU, Lille UP1
+  * Wednesdays at 15:15-17:00 in Lundbeck Auditorium
+
+#### Block 2, 49+
+  * Monday at 15:15-17:00 in DIKU, Store UP1
+  * Wednesdays at 15:15-17:00 in DIKU, Store UP1
 
 
 ### Room details
