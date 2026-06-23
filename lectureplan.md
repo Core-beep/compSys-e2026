@@ -1,10 +1,11 @@
 # Lecture plan for Computer Systems
 
+<!-- |      | 02 Sep |       | TAs      | Master Class on Tools for the Working Programmer, 10:15 to 12:00              |        | -->
+
 | Week | Date   | Topic | Lecture  | Topic                                                                         | Material |
 | ---- | ----   | ----- | -------  | ------                                                                        | -------- |
 | 36   | 31&nbsp;Aug | Intro | David    | Course introduction                                                           | COD 1.1-1.4,1.6-1.8 |
 |      |        | Basic | David    | Computers and C programming                                                   | JG 1-3 |
-|      | 03 Sep |       | TAs      | Master Class on Tools for the Working Programmer, 10:15 to 12:00              |        |
 |      | 02 Sep | Basic | David    | Assembly code and machine model                                               | COD 2.1-2.4,2.6-2.7, JG 4 |
 | 37   | 07 Sep | Basic | David    | Computer arithmetic                                                           | COD 3.1-3.3, 3.5 |
 |      | 09 Sep | Basic | David    | Functions and text                                                            | COD 2.8-2.9, JG 5-7 |
@@ -23,7 +24,7 @@
 |      |        |       |          | Hand-in A1 (OS)                                                               |          |
 | 44   | 26 Oct | CN    | David    | Non-Blocking Servers and Introduction to Security                             | BOH 12.1-12.3, KR 8.1, 8.2  |
 |      | 28 Oct | CN    | David    | Network Applications: Application Design, Socket API, HTTP & Content Delivery | KR 2.1, 2.2, 2.3.1, 2.3.2, 2.6.1 - 2.6.3 |
-| 45   | 02 Nov | CN    | David    | Application Layer: DNS + P2P File Distribution, Transport layer: UDP          | KR 2.4, 2.5, 3.1 - 3.3 |
+| 45   | 02&nbsp;Nov | CN    | David    | Application Layer: DNS + P2P File Distribution, Transport layer: UDP          | KR 2.4, 2.5, 3.1 - 3.3 |
 |      | 04 Nov | CN    | David    | Transport layer: Principles of Reliable Data Transfer + TCP                   | KR 3.1 - 3.7 |
 | 46   |        |       |          | Re-exam week - No lectures                                                    |          |
 | 47   | 16 Nov | CN    | David    | Avoiding Deadlock                                                             | BOH 12.5-12.7 (Optional read - BOH 8.5-8.7) |
