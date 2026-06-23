@@ -1,4 +1,4 @@
-# Computer Systems e2025 @ DIKU
+# Computer Systems e2026 @ DIKU
 
 For details about the course see:
   * [Course Description](courseinformation.md)
