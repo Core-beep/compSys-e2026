@@ -5,15 +5,14 @@ CompSys is giving a general introduction to computer systems. You will learn how
 Make sure that you read all the following carefully and be aware of updates.
 
 ### Maintain your programming skills!
-CompSys have gotten a reputation of being both a hard and informative course. As you can see below (and the course description), we will cover a lot of different topics that conceptually are very different, in a short time. It is therefore important that you are ready for the course when we start in September, avoiding to fall behind during the first weeks.
+CompSys have gotten a reputation of being both a hard and informative course. As you can see below (and the course description), we will in a short time cover a lot of different topics, that are overlapping but conceptually very different. It is therefore important that you are ready for the course when we start in September, avoiding to fall behind during the first weeks.
 
-We do not ask you to read ahead in the material. Also do not start to learn C, which we will use in CompSys. However, most of you are still inexperienced programmers and CompSys in very heavy on programming and program understanding. You need to think of programming as a _craft_, like playing an instrument. You have during the first year learned the basics of how it works. But if you lay it away over the summer (do not program for two months) you will lose much of these skills that you have gain over the first year. 
+We do not ask you to read ahead in the material. Also not need to start to learn C, which we will use in CompSys. However, most of you are still quite inexperienced programmers and CompSys in heavy on programming and program understanding. You need to think of programming as a _craft_, like playing an instrument. You have during the first year learned the basics of how it works. But if you lay it away over the summer (do not program for two months) you will lose much of these skills that you have gain over the first year. 
 
 You can find resources at last years [DIKU Summer of Programming](https://github.com/diku-summer-programming/fun). You can use it to get inspiration for your ideas.
 
 ### Github as course page
-Most material will be posted to Github in this repository. We recommend that you clone it to your machine and that you follow the updates that are made, by reading the log.
-
+Most material will be posted to Github in this repository. We recommend that you clone it to your machine and that you follow the updates that are made, by reading the git log. This gives a detailed description of each update that we make.
 
 
 ## Course Structure
@@ -50,14 +49,15 @@ The general outline of CompSys will be the following:
  * Week 4: Exam
 
 ### Teaching in Block 1 exam period
-Be aware that CompSys is a semester course, which means that we will be teaching (including having normal exercise and assignments) throughout the exam period (weeks 44 and 45) of Block 1.
+Be aware that CompSys is a semester course, which means that we will be teaching (including having normal exercise and assignments) throughout the exam period of Block 1 (weeks 44 and 45).
 
 ### Exam
-The exam is a written 4-hour open-book bring-your-own-device exam and will be held on Wednesday of the Block 2 exam week. Course syllabus is all reading material, including the assignments. LLM/GAI is not allowed.
-We will later publish example sets based on the previous exam iteration and further details on the exam procedure. It will be possible to get limited feedback on the exam performance afterwards.
+The exam is a written 4-hour open-book bring-your-own-device exam and will be held on Wednesday of the Block 2 exam-week. Course syllabus is all reading material, including the assignments. LLM/GAI is not allowed.
+We will later in the course publish example sets based on the previous exam iteration and further details on the exam procedure. It will be possible to get limited feedback on the exam performance afterwards.
 
 ### Exercises and Cafées
-The course will have both class exercises and open café sessions. The class exercises will fill focus on smaller exercises that will provide practice in using the material presented in the lectures and videos. They are perhaps the main learning point for the course as you are expected to be able to practice and apply the theories and principles explained through the course. 
+The course will have both class exercises and open café sessions. The class exercises will focus on smaller exercises that will provide practice in using the material presented in the lectures and videos. This will be both theoretical exercises, that will relate to exam topics, and programming tasks, that is useful for you solving the assignments.
+They are perhaps the main learning point for the course as you are expected to be able to practice and apply the theories and principles explained through the course. 
 
 The café sessions will, on the other hand, mainly be your possibility to get help with the assignments. However, it will also be possible to ask about exercises and other material. Also teachers will (mainly on Wednesdays) also be presents, so you can ask anything in an informal setting.
 
@@ -66,7 +66,8 @@ To qualify for the exam, a minimum number of points must be gained through the a
 
 It is also important to note, that the main purpose of the assignment is _not_ to prepare you for the exam; that is what the theory parts of the exercise classes are for. The assignments will focus on larger implementations and the practical learning goals of the course. Some questions in the exam will relate to the assignments, but qualifying of the exam (and even fully solving the assignments) will not be enough preparation to pass the exam. You need to make the exercises and the best way is to come to the exercise classes.
 
-## Manning
+## Manning and contact
+The course will be manned by
 
 Teachers:
 
@@ -81,6 +82,10 @@ TAs:
  * Sofus Ravnkilde Bloch Jensen
  * Tobias Andersen
 
+Michael Kirkedal Thomsen is main contact point for anything administrative and practical on the course. You can contact 
+by e-mail (m.kirkedal@di.ku.dk) or write directly on Absalon.
+
+Questions regarding understanding of material can be posted on the discussion forum on Absalon or on the optional Discord forum.
 
 ## Teaching
 Teaching in this course will be on a weekly basis. E.g. each week we will have a unified topic that will be introduced and investigated. These subjects will be taught through a combination of lectures, exercises, written material, and out of class videos. Material will be presented first through reading/watching course material and completing exercises, then by lectures, and finally through assignments. 
@@ -95,18 +100,20 @@ Exercise classes will introduce many of the practical concepts and techniques we
 
 
 ## Locations
-Please disregard the location stated at skema.ku.dk or in the myUCPH app. They show all the rooms. Please refer to the plan below.
+Please disregard the location stated at skema.ku.dk or in the myUCPH app for specific exercise classes. They show all the rooms. Please refer to the plan below.
 
-  * Mondays 15:15-17:00
-  * Wednesdays 13:15-15:00
+All rooms in DIKU in Universitetsparken 13, the pavilion outside the HCØ building. Do not go to the DIKU building; it is limited for construction.
 
 
 ### Lectures
 Every Monday and Wednesday lectures will be held. These will go through the course material though are also an opportunity to ask questions directly to the teachers about the weeks material. 
 
+  * Mondays 15:15-17:00
+  * Wednesdays 13:15-15:00
+
 #### Block 1
   * Monday: HCØ, Aud 03
-  * Wednesday: HCØ, Aud 03
+  * Wednesday: HCØ, Aud 04
 
 #### Block 2
   * Monday: HCØ, Aud 01
@@ -122,10 +129,10 @@ Exercise classes will introduce many of the practical concepts and techniques we
 
   * Class 1:
     * Monday: NBB 1.01.B.082
-    * Wednesday: DIKU 1-0-10, Pavillon 1. sal
+    * Wednesday: DIKU 1-0-10, Pavilion 1st floor
   * Class 2:
     * Monday: NBB 1.1.E.015
-    * Wednesday: DIKU 1-0-18, Pavillon 1. sal
+    * Wednesday: DIKU 1-0-18, Pavilion 1st floor
   * Class 3:
     * Monday: NBB 1.3.B.015
     * Wednesday: NBB 1.3.B.015
@@ -155,10 +162,8 @@ Cafés will be manned with either one or 2two TAs. These are intended primarily 
 
 #### Block 1
 
-  * DIKU 1-0-10, Pavillon 1. sal
-  * DIKU 1-0-18, Pavillon 1. sal
-
-All rooms are in Universitetsparken 13, the pavilion outside the HCØ building. Do not go to the DIKU building.
+  * DIKU 1-0-10, Pavilion 1st floor
+  * DIKU 1-0-18, Pavilion 1st floor
 
 #### Block 2
 
@@ -175,7 +180,9 @@ Online on Absalon or Discord.
 
 ## Assignments
 
-There are 6 assignment in total during the course with deadline roughly every two to three weeks. The assignments will be graded with points from 0 to 6 depending on the assignment. It is _not_ possible to re-hand-in any of the assignments. The details will be the following:
+There are 6 assignment in total during the course with deadline roughly every two to three weeks. The assignments will be graded with points from 0 to 4 depending on the assignment. It is _not_ possible to re-hand-in any of the assignments. 
+
+The details will be the following:
 
 
 | Title                                         | Expected deadline         | Topic | Maximum points |
@@ -205,23 +212,9 @@ When your TA has corrected your submission all members of the group will be give
 
 ## Exam qualification
 
-To qualify for the exam you are required to achieve at least 50 % of the total number of points in the assignments. That is 9 out of the total 18 points.
+To qualify for the exam you are required to achieve at least 50 % of the total number of points in the assignments. That is 9 out of the total 18 points possible.
 
-Furthermore, it is required that you show a reasonable understanding of all parts (ARK, OS, CN) of the course. This is firstly interpreted as achieving points at least 40 % points in each the of topics. To optimise your understanding of the course, and since all assignments are in the syllabus, we encourage you to work with and hand in all sets.
-
-Mapping of topics to assignments:
-
-|                      | A0 | A1 | A2 | A3 | A4 |
-| ---------------------|----|----|----|----|----|
-| Operating System     |    |  X |    |    |    |
-| Computer network     |    |    |  X |    |    |
-| Machine architecture |    |    |    |  X |    |
-
-The rule about 40 % of points for assignments in each topic, is included to make sure that you will uphold the learning goals for the course. We will teach you about many different abstractions and you should learn something about all of them. Without this rule you could attend the exam without e.g. learning anything about computer networks by getting enough points in the beginning of the course. The 40 % is chosen as it should be "easier" than the general rule of 50 %; it will therefore be:
-
-  * Operating System (A1): 1 of the possible 4 points.
-  * Computer network (A2): 1 of the possible 4 points.
-  * Machine architecture (A3): 1 of the possible 4 points.
+Furthermore, it is required that you show a reasonable understanding of all parts (ARK, OS, CN) of the course. This is interpreted as achieving 1 of 4 points in each the of these topics. The categorisation of assignments to topics is shown above.
 
 If you qualified for the exam the previous year, you can take the exam as a re-exam. If you qualified earlier years, then contact the course organiser.
 
