@@ -15,7 +15,8 @@ You can find resources at last years [DIKU Summer of Programming](https://github
 Most material will be posted to Github in this repository. We recommend that you clone it to your machine and that you follow the updates that are made, by reading the log.
 
 
-## Short on Course Structure
+
+## Course Structure
 In the following is given a short overall description of the course. More details can be found further down.
 
 ### Teaching Material
@@ -84,108 +85,92 @@ TAs:
 ## Teaching
 Teaching in this course will be on a weekly basis. E.g. each week we will have a unified topic that will be introduced and investigated. These subjects will be taught through a combination of lectures, exercises, written material, and out of class videos. Material will be presented first through reading/watching course material and completing exercises, then by lectures, and finally through assignments. 
 
-## Reading/Watching Course Material
+### Reading/Watching Course Material
 Much of the theoretical material will be first introduced either via reading in the course textbooks, or via video recordings of previous years lectures. These will be released the previous week so that you may view them in your own time before the start of the week. You will not be expected to know all presented material inside and out before attending any exercises or lectures, but will be expected to have at least started viewing the material so that you are able to start work on the exercises during the exercise class.
 
 Additional review quizzes will also be provided along with the recordings for you to test that you've obtained the expected learning from the videos. Note that these quizzes are just for revision and feedback and so do not affect your assignments or final grades in any way.
 
-## Exercise Classes
+### Exercise Classes
 Exercise classes will introduce many of the practical concepts and techniques we will be exploring in this course. They are mostly smaller programming and theory tasks that prepare you for the tasks in the assignments and the exam. Note that you will be expected to have some overview of the relevant course material before attending the exercise classes. The exercise classes are also a prime way for you to ask questions to TAs and get guidance through any of the exercises, assignments or general course topics.
 
- * Mondays 13:15-15:00
- * Wednesdays 13:15-15:00
 
-Please disregard the location stated at skema.ku.dk or in the myUCPH app. Please refer to the plan below:
+## Locations
+Please disregard the location stated at skema.ku.dk or in the myUCPH app. They show all the rooms. Please refer to the plan below.
 
-#### Block 1
-  * Class 1:
-    * Monday: NBB 2.3.I.164
-    * Wednesday: NBB 2.3.I.164
-  * Class 2:
-    * Monday: NBB 2.3.H.142
-    * Wednesday: NBB 2.3.H.142
-  * Class 3: (Cancelled)
-    * Monday: HCØ A107
-    * Wednesday: HCØ A107
+  * Mondays 15:15-17:00
+  * Wednesdays 13:15-15:00
 
-<!-- #### Week 45
-  * Monday at 13:15 to 15:00
-  * Friday at 09:15 to 12:00
-
-  * Class 1:
-    * Monday: NBB 2.3.I.164
-    * Friday: NBB 2.1.I.156
-  * Class 2:
-    * Monday: NBB 2.3.H.142
-    * Friday: NBB 2.2.I.158
-  * Class 3:
- -->
-
-#### Block 2
-  * Class 1:
-    * Monday: Biocenter 2-0-07/09
-    * Wednesday: Biocenter 2-0-07/09
-  * Class 2:
-    * Monday: Biocenter 2-1-07/09
-    * Wednesday: Biocenter 2-1-07/09
-  * Class 3:
-    * Monday: Biocenter 2-1-17
-    * Wednesday: Biocenter 2-1-17
 
 ### Lectures
 Every Monday and Wednesday lectures will be held. These will go through the course material though are also an opportunity to ask questions directly to the teachers about the weeks material. 
 
 #### Block 1
-  * Monday at 15:15-17:00 in DIKU, Store UP1
-  * Wednesdays at 15:15-17:00 in DIKU, Store UP1
+  * Monday: HCØ, Aud 03
+  * Wednesday: HCØ, Aud 03
 
-#### Block 1, Week 45
-  * Monday at 15:15-17:00 in DIKU, Store UP1
-  * Friday at 13:15-15:00 in HCØ, Aud 1
+#### Block 2
+  * Monday: HCØ, Aud 01
+  * Wednesday: HCØ, Aud 04
 
-#### Block 2, Week 47-48
-  * Monday at 15:15-17:00 in DIKU, Lille UP1
-  * Wednesdays at 15:15-17:00 in Lundbeck Auditorium
+### Execises
+Exercise classes will introduce many of the practical concepts and techniques we will be exploring in this course. 
 
-#### Block 2, 49+
-  * Monday at 15:15-17:00 in DIKU, Store UP1
-  * Wednesdays at 15:15-17:00 in DIKU, Store UP1
+  * Mondays 13:15-15:00
+  * Wednesdays 15:15-17:00
 
+#### Block 1
 
-### Room details
-Map of Nørre Campus:
-https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
+  * Class 1:
+    * Monday: NBB 1.01.B.082
+    * Wednesday: DIKU 1-0-10, Pavillon 1. sal
+  * Class 2:
+    * Monday: NBB 1.1.E.015
+    * Wednesday: DIKU 1-0-18, Pavillon 1. sal
+  * Class 3:
+    * Monday: NBB 1.3.B.015
+    * Wednesday: NBB 1.3.B.015
+  * Class 4:
+    * Monday: NBB 2.3.I.164
+    * Wednesday: NBB 2.3.H.142
 
- * Biocenter, Ole Maaløes Vej 5, https://www.biocenter.ku.dk/kort/
- * DIKU, No further explanation needed
- * NBB, Niels Bohr Building, Jagtvej 155 (other side of Jagtvej)
- * HCØ, C103 is first floor in building 2
- * NEXS Aud Syd + Nord is at Nørre Alle 51 (almost at the Royal Library)
+#### Block 2
+ * Class 1:
+    * Monday: NBB 1.01.B.080
+    * Wednesday: NBB 1.01.B.080
+ * Class 2:
+    * Monday: NBB 1.01.F.70
+    * Wednesday: NBB 1.01.F.70
+ * Class 3:
+    * Monday: NBB 1.3.B.015
+    * Wednesday: NBB 1.1.E.015
+ * Class 4:
+    * Monday: NBB 2.3.I.164
+    * Wednesday: NBB 2.1.I.156
+
 
 ## Cafés 
-Cafés will be manned with either 2, 3 or 4 TAs. These are intended primarily to help with assignments though other questions relating to the course material is also welcome.
+Cafés will be manned with either one or 2two TAs. These are intended primarily to help with assignments though other questions relating to the course material is also welcome. In you are welcome to sit and work. You can come to the other rooms to ask for help.
 
  * Wednesdays 10:15-12:00
 
 #### Block 1
-In the  you are welcome to sit and work. You can come to the other rooms to ask for help.
 
-  * DIKU 1-0-30, Pavillon stuen
-  * DIKU 1-0-34, Pavillon stuen
-  * DIKU 1-0-37, Pavillon stuen (only before deadlines, otherwise overflow)
+  * DIKU 1-0-10, Pavillon 1. sal
+  * DIKU 1-0-18, Pavillon 1. sal
 
 All rooms are in Universitetsparken 13, the pavilion outside the HCØ building. Do not go to the DIKU building.
 
 #### Block 2
 
-  * Biocenter 2-0-07/09
-  * Biocenter 2-1-17
-  * Biocenter 2-2-17 (only before deadlines, otherwise overflow)
+  * Wednesday NBB 1.1.E.015
+  * Wednesday NBB 1.01.B.080
 
 
 
 ## Study group formation
 Online on Absalon or Discord.
+
+
 
 
 ## Assignments
