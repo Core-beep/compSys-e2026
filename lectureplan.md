@@ -1,10 +1,11 @@
 # Lecture plan for Computer Systems
 
+<!-- |      | 02 Sep |       | TAs      | Master Class on Tools for the Working Programmer, 10:15 to 12:00              |        | -->
+
 | Week | Date   | Topic | Lecture  | Topic                                                                         | Material |
 | ---- | ----   | ----- | -------  | ------                                                                        | -------- |
-| 36   | 31 Aug | Intro | David    | Course introduction                                                           | COD 1.1-1.4,1.6-1.8 |
+| 36   | 31&nbsp;Aug | Intro | David    | Course introduction                                                           | COD 1.1-1.4,1.6-1.8 |
 |      |        | Basic | David    | Computers and C programming                                                   | JG 1-3 |
-<!-- |      | 03 Sep |       | TAs      | Master Class on Tools for the Working Programmer, 10:15 to 12:00              |  | -->
 |      | 02 Sep | Basic | David    | Assembly code and machine model                                               | COD 2.1-2.4,2.6-2.7, JG 4 |
 | 37   | 07 Sep | Basic | David    | Computer arithmetic                                                           | COD 3.1-3.3, 3.5 |
 |      | 09 Sep | Basic | David    | Functions and text                                                            | COD 2.8-2.9, JG 5-7 |
@@ -23,7 +24,7 @@
 |      |        |       |          | Hand-in A1 (OS)                                                               |          |
 | 44   | 26 Oct | CN    | David    | Non-Blocking Servers and Introduction to Security                             | BOH 12.1-12.3, KR 8.1, 8.2  |
 |      | 28 Oct | CN    | David    | Network Applications: Application Design, Socket API, HTTP & Content Delivery | KR 2.1, 2.2, 2.3.1, 2.3.2, 2.6.1 - 2.6.3 |
-| 45   | 02 Nov | CN    | David    | Application Layer: DNS + P2P File Distribution, Transport layer: UDP          | KR 2.4, 2.5, 3.1 - 3.3 |
+| 45   | 02&nbsp;Nov | CN    | David    | Application Layer: DNS + P2P File Distribution, Transport layer: UDP          | KR 2.4, 2.5, 3.1 - 3.3 |
 |      | 04 Nov | CN    | David    | Transport layer: Principles of Reliable Data Transfer + TCP                   | KR 3.1 - 3.7 |
 | 46   |        |       |          | Re-exam week - No lectures                                                    |          |
 | 47   | 16 Nov | CN    | David    | Avoiding Deadlock                                                             | BOH 12.5-12.7 (Optional read - BOH 8.5-8.7) |
@@ -32,7 +33,7 @@
 | 48   | 23 Nov | Arc   | Finn     | RISC-V machine language                                                       | as above. Also get some familiarity/overview of ch 1,2 and 13 of [RISCV](https://github.com/riscv/riscv-isa-manual/releases/download/20240411/unpriv-isa-asciidoc.pdf) |
 |      | 25 Nov | Arc   | Finn     | Digital logic                                                                 | COD A.1 - A.3, A.5, A7 - A.9, [NandGame](https://nandgame.com/) |
 | 49   | 30 Nov | Arc   | Finn     | The simple machine                                                            | COD 4.1 - 4.4 |
-|      | 02 Dec | Arc   | Finn     | Into to Mikroarchitektur: Pipelining and ydeevne                              | COD 4.6 - 4.9 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit: intro,lange pipelines,superskalare |
+|      | 02&nbsp;Dec | Arc   | Finn     | Into to Mikroarchitektur: Pipelining and ydeevne                              | COD 4.6 - 4.9 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit: intro,lange pipelines,superskalare |
 | 50   | 07 Dec | Arc   | Finn     | Avanceret Mikroarchitektur I                                                  | COD 4.11 + [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
 |      | 09 Dec | Arc   | Finn     | Avanceret Mikroarchitektur II                                                 | [note](https://github.com/diku-compSys/compSys-e2025/blob/main/resources/Afviklingsplot/plot.md), afsnit om out-of-order |
 | 51   | 14 Dec | Arc   | Finn     | Vector processing. Opsamling. Maskinnær optimering.                           | TBD |
