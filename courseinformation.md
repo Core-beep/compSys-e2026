@@ -190,24 +190,30 @@ Online on Absalon or Discord.
 
 ## Assignments
 
-There are 6 assignment in total during the course with deadline roughly every two to three weeks. The assignments will be graded with points from 0 to 6 depending on the assignment. It is _not_ possible to re-hand-in any of the assignments. The details will be the following:
+There are 5 assignment in total during the course with deadline roughly every two to three weeks. The assignments will be graded with points from 0 to 6 depending on the quality of the assignment handin. 
+
+A0 to A3 will have two components. A written report (plus accompanying code) that will be handed in and awarded up to 4 points. The report should provide an account of how you solved the assignment and present any results asked for in the assignment handout. The report will be provisionally marked and 1-2 weeks after handin of the initial report you will be given the opportunity to briefly present your work and answer questions on your report/code. This will be awarded up to an additional 2 points meaning each of the first 4 assignments is worth 6 points in total. In depth feedback will only be provided at the presentation sessions. 
+
+The final assignment will only be theoretical questions and will be marked out of 2. There will not be a presentation part to the final assignment.
 
 
-| Title                                         | Expected deadline         | Topic | Maximum points |
-| --------------------------------------------- | ------------------------- | ----- | -------------- |
-| A0: Dynamic memory and caching                | Sunday Week 39 @ 16:00    | None  |       4 points |
-| A1: Concurrency                               | Sunday Week 43 @ 16:00    | OS    |       4 points |
-| A2: Client network distribution and security  | Sunday Week 47 @ 16:00    | CN    |       4 points |
-| A3: Architecture.                             | Sunday Week 51 @ 16:00    | Arc   |       4 points |
-| A4: Theoretical catch up                      | Sunday Week 01 @ 16:00    | None  |       2 points |
+It is _not_ possible to re-hand-in any of the assignments. The details will be the following:
 
-Assignments are made to be solved in groups of preferably three students, but groups of two active students will also do. We strongly encourage not to work alone. Groups cannot be larger than three students. Each group must make their own solutions and must share implementations and report with other. You are allowed to discuss material and ideas. All assignment hand-ins should include the standard KU Generative AI declaration [KU Generative AI declaration](https://kunet.ku.dk/work-areas/teaching/digital-learning/chatgpt-and-ai/new-rules-and-principles-from-september-2025/template-for-declaration/Pages/default.aspx).
 
-The final assignment will only be theoretical.
+| Title                                         | Expected deadline         | Topic | Report points | Presentation points | Total points |
+| --------------------------------------------- | ------------------------- | ----- | ------------- | ------------------- | ------------ |
+| A0: Dynamic memory and caching                | Sunday Week 39 @ 16:00    | None  |      4 points |            2 points |     6 points |
+| A1: Concurrency                               | Sunday Week 43 @ 16:00    | OS    |      4 points |            2 points |     6 points |
+| A2: Client network distribution and security  | Sunday Week 47 @ 16:00    | CN    |      4 points |            2 points |     6 points |
+| A3: Architecture.                             | Sunday Week 51 @ 16:00    | Arc   |      4 points |            2 points |     6 points |
+| A4: Theoretical catch up                      | Sunday Week 01 @ 16:00    | None  |      2 points |                   - |     2 points |
+
+Assignments are made to be solved in groups of preferably three students, but groups of two active students will also do. We strongly encourage not to work alone. Groups _cannot_ be larger than three students. Each group must make their own solutions and must share implementations and report with other within the group. You are allowed to discuss material and ideas outside of your group. _All_ assignment hand-ins should include the standard KU Generative AI declaration [KU Generative AI declaration](https://kunet.ku.dk/work-areas/teaching/digital-learning/chatgpt-and-ai/new-rules-and-principles-from-september-2025/template-for-declaration/Pages/default.aspx).
+
 
 ### Feedback
 <!-- Update to fit the coming plan -->
-Feedback to assignments will be given by TAs on the course; we try to match with the TA of the exercise class. Feedback will focus on what could be approved in the assignment relating to both technical implementations, and report structure and material. The feedback may thus be useful for later assignment. The feedback will not be complete, so it can be useful also to talk with your TA at the exercises. Feedback will not give a direct justification of the evaluation in number of points.
+Feedback to assignments will be given by TAs on the course during the assignment Q/A sessions; we try to match with the TA of the exercise class. Feedback will focus on what could be improved in the assignment relating to both technical implementations, and report structure and material. The feedback may thus be useful for later assignment. Feedback will not give a direct justification of the evaluation in number of points.
 
 Correction of submissions will be available after about two weeks.
 
@@ -220,7 +226,7 @@ When your TA has corrected your submission all members of the group will be give
 
 ## Exam qualification
 
-To qualify for the exam you are required to achieve at least 50 % of the total number of points in the assignments. That is 9 out of the total 18 points.
+To qualify for the exam you are required to achieve at least 50 % of the total number of points in the assignments. That is 13 out of the total 26 points.
 
 Furthermore, it is required that you show a reasonable understanding of all parts (ARK, OS, CN) of the course. This is firstly interpreted as achieving points at least 40 % points in each the of topics. To optimise your understanding of the course, and since all assignments are in the syllabus, we encourage you to work with and hand in all sets.
 
@@ -234,9 +240,9 @@ Mapping of topics to assignments:
 
 The rule about 40 % of points for assignments in each topic, is included to make sure that you will uphold the learning goals for the course. We will teach you about many different abstractions and you should learn something about all of them. Without this rule you could attend the exam without e.g. learning anything about computer networks by getting enough points in the beginning of the course. The 40 % is chosen as it should be "easier" than the general rule of 50 %; it will therefore be:
 
-  * Operating System (A1): 1 of the possible 4 points.
-  * Computer network (A2): 1 of the possible 4 points.
-  * Machine architecture (A3): 1 of the possible 4 points.
+  * Operating System (A1): 2 of the possible 6 points.
+  * Computer network (A2): 2 of the possible 6 points.
+  * Machine architecture (A3): 2 of the possible 6 points.
 
 If you qualified for the exam the previous year, you can take the exam as a re-exam. If you qualified earlier years, then contact the course organiser.
 
