@@ -182,19 +182,19 @@ Online on Absalon or Discord.
 
 There are 5 assignment in total during the course with deadline roughly every two to three weeks. The assignments will be graded with points from 0 to 6 depending on the quality of the assignment handin. 
 
-A0 to A3 will have two components. A written report (plus accompanying code) that will be handed in and awarded up to 4 points. The report should provide an account of how you solved the assignment and present any results asked for in the assignment handout. The report will be provisionally marked and 1-2 weeks after handin of the initial report you will be given the opportunity to briefly present your work and answer questions on your report/code. This will be awarded up to an additional 2 points meaning each of the first 4 assignments is worth 6 points in total. In depth feedback will only be provided at the presentation sessions. 
+A0 to A3 will have two components. A written report (plus accompanying code) that will be handed in and awarded up to 4 points. The report should provide an account of how you solved the assignment and present any results asked for in the assignment handout. The report will be provisionally marked and 1-2 weeks after handin of the initial report you will be given the opportunity to briefly discuss your work with a TA and answer questions on your report/code. This will be awarded up to an additional 2 points meaning each of the first 4 assignments is worth 6 points in total. In depth feedback will only be provided at the presentation sessions. Note that attendance at the discussion sessions is optional though if you do not attend you obviously won't be awarded any additional points and will not receive any detailed feedback on your assignment.
 
-The final assignment will only be theoretical questions and will be marked out of 2. There will not be a presentation part to the final assignment.
+The final assignment will only be theoretical questions and will be marked out of 2. There will not be a discussion part to the final assignment.
 
 It is _not_ possible to re-hand-in any of the assignments. The details will be the following:
 
-| Title                                         | Expected deadline         | Topic | Report points | Presentation points | Total points |
-| --------------------------------------------- | ------------------------- | ----- | ------------- | ------------------- | ------------ |
-| A0: Dynamic memory and caching                | Sunday Week 39 @ 16:00    | None  |      4 points |            2 points |     6 points |
-| A1: Concurrency                               | Sunday Week 43 @ 16:00    | OS    |      4 points |            2 points |     6 points |
-| A2: Client network distribution and security  | Sunday Week 47 @ 16:00    | CN    |      4 points |            2 points |     6 points |
-| A3: Architecture.                             | Sunday Week 51 @ 16:00    | Arc   |      4 points |            2 points |     6 points |
-| A4: Theoretical catch up                      | Sunday Week 01 @ 16:00    | None  |      2 points |                   - |     2 points |
+| Title                                         | Expected deadline         | Topic | Report points | Discussion points | Total points |
+| --------------------------------------------- | ------------------------- | ----- | ------------- | ----------------- | ------------ |
+| A0: Dynamic memory and caching                | Sunday Week 39 @ 16:00    | None  |      4 points |          2 points |     6 points |
+| A1: Concurrency                               | Sunday Week 43 @ 16:00    | OS    |      4 points |          2 points |     6 points |
+| A2: Client network distribution and security  | Sunday Week 47 @ 16:00    | CN    |      4 points |          2 points |     6 points |
+| A3: Architecture.                             | Sunday Week 51 @ 16:00    | Arc   |      4 points |          2 points |     6 points |
+| A4: Theoretical catch up                      | Sunday Week 01 @ 16:00    | None  |      2 points |                 - |     2 points |
 
 Assignments are made to be solved in groups of preferably three students, but groups of two active students will also do. We strongly encourage not to work alone. Groups _cannot_ be larger than three students. Each group must make their own solutions and must share implementations and report with other within the group. You are allowed to discuss material and ideas outside of your group. _All_ assignment hand-ins should include the standard KU Generative AI declaration [KU Generative AI declaration](https://kunet.ku.dk/work-areas/teaching/digital-learning/chatgpt-and-ai/new-rules-and-principles-from-september-2025/template-for-declaration/Pages/default.aspx).
 
