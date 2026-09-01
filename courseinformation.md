@@ -190,9 +190,9 @@ It is _not_ possible to re-hand-in any of the assignments. The details will be t
 
 | Title                                         | Expected deadline         | Topic | Report points | Discussion points | Total points |
 | --------------------------------------------- | ------------------------- | ----- | ------------- | ----------------- | ------------ |
-| A0: Dynamic memory and caching                | Sunday Week 39 @ 16:00    | None  |      4 points |          2 points |     6 points |
-| A1: Concurrency                               | Sunday Week 43 @ 16:00    | OS    |      4 points |          2 points |     6 points |
-| A2: Client network distribution and security  | Sunday Week 47 @ 16:00    | CN    |      4 points |          2 points |     6 points |
+| A0: Dynamic memory and caching                | Wednesday Week 40 @ 22:00 | None  |      4 points |          2 points |     6 points |
+| A1: Concurrency                               | Wednesday Week 44 @ 22:00 | OS    |      4 points |          2 points |     6 points |
+| A2: Client network distribution and security  | Wednesday Week 48 @ 22:00 | CN    |      4 points |          2 points |     6 points |
 | A3: Architecture.                             | Sunday Week 51 @ 16:00    | Arc   |      4 points |          2 points |     6 points |
 | A4: Theoretical catch up                      | Sunday Week 01 @ 16:00    | None  |      2 points |                 - |     2 points |
 
