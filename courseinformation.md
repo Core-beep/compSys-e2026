@@ -200,7 +200,7 @@ Assignments are made to be solved in groups of preferably three students, but gr
 
 
 ### Feedback
-Feedback to assignments will be given by the course TAs during the assignment Q/A sessions; we try to match with the TA of the exercise class. Feedback will focus on what could be improved in the assignment relating to both technical implementations, and report structure and material. The feedback may thus be useful for later assignment. Feedback will not give a direct justification of the evaluation in number of points.
+Feedback to assignments will be given by the course TAs during the assignment discussion sessions; we try to match with the TA of the exercise class. Feedback will focus on what could be improved in the assignment relating to both technical implementations, and report structure and material. The feedback may thus be useful for later assignment. Feedback will not give a direct justification of the evaluation in number of points.
 
 Correction of submissions will be available after about two weeks.
 
