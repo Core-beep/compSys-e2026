@@ -13,7 +13,7 @@ This document intends to show some of the commonly used git commands, as well as
 9. `git checkout <branch>` – Switch or create a branch.
 10. `git merge <branch>` – Merge a branch into the current one.
 11. `git log` – View commit history
-12. `git archive` --format=zip --output=<name>.zip HEAD - Create a zip file of the HEAD of the git repository.
+12. `git archive --format=zip --output=<name>.zip HEAD` - Create a zip file of the HEAD of the git repository.
 
 # Common workflows
 ## Starting a new project
