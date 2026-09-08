@@ -11,7 +11,7 @@ It is up to you to decide how to test them.
 
 You must use [RARS](https://github.com/TheThirdOne/rars) to develop,
 test, and run these programs.  [See this guide on using
-RARS](../../tools/rars.md).
+RARS](../../../tools/rars.md).
 
 ## What to Learn From This Exercise
 At this stage in the course we are not too concerned with your knowledge of 
