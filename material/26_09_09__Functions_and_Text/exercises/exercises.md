@@ -27,10 +27,9 @@ of illustrating quite how complex even these simple problems can be at this low
 level, but you may be able to get the same outcome with tools like LLMs, 
 reading, or watching videos.
 
-Additionally, there are some exercises to help you get started on A0. Note that
-they're intentionally _similar_ to the tasks in A0 but slightly altered. You 
-should be able to use your solutions to these exercises in A0 but may need some
-minor alternations to do so. 
+Additionally, there are some exercises that used to be set as the first 
+introductory assignment. This is a relatively short task that should give you
+more practice with playing around with bytes and data representation in C.
 
 ### Fibonacci function
 
