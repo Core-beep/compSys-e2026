@@ -15,7 +15,7 @@ Tobias  | Cafe Oct 7th          | DIKU 1-0-10       | bdn167, cqx237, rhz500
         | Exercise Oct 7th      | DIKU 1-0-10       | cls199, nxp109, tsx936
         | Exercise Oct 19th     | NBB 1.01.B.082    | crt805, spf716, wpl433
         | Exercise Oct 19th     | NBB 1.01.B.082    | czd850, sgf635
-        | Exercise Oct 19th     | NBB 1.01.B.082    | djx622, gln204
+        | Exercise Oct 19th     | NBB 1.01.B.082    | djx622, kjt322, gln204
         | Exercise Oct 19th     | NBB 1.01.B.082    | frj103, ngz387
         | Exercise Oct 21st     | DIKU 1-0-10       | hmz554, nfb101
         | Exercise Oct 21st     | DIKU 1-0-10       | hqv285, wpf719
