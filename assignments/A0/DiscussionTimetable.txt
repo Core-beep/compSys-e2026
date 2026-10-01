@@ -61,5 +61,5 @@ Markus  | Exercise Oct 7th      | NBB 2.3.H.142     | bcx379, bxk758, fpn557
         | Cafe 21st             | DIKU 1-0-10       | rvw283
         | Cafe 21st             | DIKU 1-0-10       | wcj897
         | Cafe 21st             | DIKU 1-0-10       | xlc559
-        | Exercise Oct 21st     | NBB 2.3.H.142     | zln347
+        | Exercise Oct 21st     | NBB 2.3.H.142     | psw960, zln347
         | Exercise Oct 21st     | NBB 2.3.H.142     | zpw148
